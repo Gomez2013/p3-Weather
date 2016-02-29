@@ -1,0 +1,27 @@
+body {
+ background-image: url(https://wallpaperscraft.com/image/night_sky_moon_trees_river_reflection_95979_3840x2160.jpg);
+  font-size: 2em;
+  opacity: 0.9 !important; 
+  background-size: 1600px 1000px;    
+}
+.tabs {
+  text-align: center;
+}
+#tab-1, #tab-2, #tab-3{
+  opacity: 0.6;
+  background-image: url(https://wallpaperscraft.com/image/night_sky_moon_trees_river_reflection_95979_3840x2160.jpg);
+  background-size: 1600px 1800px; 
+}
+h3 {
+  text-align: center; 
+  color: gray;
+}
+img {
+  left: 600px !important;
+}
+#box {
+  background: rgb(50,50,50);
+  height:200px;
+  opacity: .06;
+  
+}
